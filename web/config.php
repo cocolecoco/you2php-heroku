@@ -1,9 +1,9 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', getenv("APIKEY"));
+define('APIKEY', getenv("AIzaSyDM4K8Uk0l2denbkKBskbTUbYiOlz1NEd4"));
 define('GJ_CODE', getenv("GJ_CODE"));
-define('SITE_NAME',getenv("SITE_NAME"));
-define('TITLENAME', getenv("TITLENAME"));
-define('EN2DEKEY',getenv("EN2DEKEY"));
-define('EMAIL', getenv("EMAIL"));
+define('SITE_NAME',getenv("leetube"));
+define('TITLENAME', getenv("tubephp"));
+define('EN2DEKEY',getenv("qweasd"));
+define('EMAIL', getenv("liker9907@outlook.com"));
 ?>
